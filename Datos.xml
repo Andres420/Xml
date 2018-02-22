@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Empleados>
+  <persona>
+    <id>1</id>
+    <nombre>Andres</nombre>
+    <apellidos>Avila Brenes</apellidos>
+    <direccion>San Martin</direccion>
+  </persona>
+  <persona>
+    <id>2</id>
+    <nombre>Ronald</nombre>
+    <apellidos>Paniagua</apellidos>
+    <direccion>Cedral</direccion>
+  </persona>
+</Empleados>
