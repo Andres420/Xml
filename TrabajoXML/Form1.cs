@@ -12,6 +12,7 @@ namespace TrabajoXML
 {
     public partial class Form1 : Form
     {
+        //terminado
         Xml mixml = new Xml();
         string ruta;
         private void btnGuardar_Click(object sender, EventArgs e)
